@@ -1,8 +1,18 @@
 body {
-  background-image: url(bg.jpg);
+  background-image: url(bg.gif);
 }
 
-#top {
+#top{
+  margin-top: 0px;
+  padding-top: 0px;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+
+}
+
+#head {
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
