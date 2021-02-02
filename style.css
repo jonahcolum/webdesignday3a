@@ -22,3 +22,44 @@ body {
 #randoms {
 
 }
+
+#sabert {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 10px;
+  background-image: url(spacelogo.gif);
+  background-repeat: repeat-x;
+}
+
+#saberl {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 10px;
+  height: 100%;
+  background-image: url(spacelogor.gif);
+  background-repeat: repeat-y;
+}
+
+#saberr {
+position: fixed;
+right: 0px;
+top: 0px;
+width: 10px;
+height: 100%;
+background-image: url(spacelogor.gif);
+background-repeat: repeat-y;
+
+}
+
+#saberb {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  height: 10px;
+  background-image: url(spacelogo.gif);
+  background-repeat: repeat-x;
+}
