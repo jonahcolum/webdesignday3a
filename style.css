@@ -182,13 +182,26 @@ background-repeat: repeat-y;
 }
 
 #ok2:hover {
-  padding: 20px;
-  margin: 2px;
   border-top: 2px solid #393939;
   border-left: 2px solid #393939;
   border-right: 2px solid white;
   border-bottom: 2px solid white;
   border-radius: 0px;
+}
+
+#jok {
+  margin: 1px;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#jok:hover {
+  border-style: dashed;
+  border-top: 1px dashed #393939;
+  border-left: 1px dashed #393939;
+  border-right: 1px dashed #393939;
+  border-bottom: 1px dashed #393939;
+  margin: 0px;
 }
 
 #randoms {
