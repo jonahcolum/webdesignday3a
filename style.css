@@ -241,9 +241,11 @@ background-repeat: repeat-y;
 #firebar {
   position: relative;
   margin-bottom: -5px;
+}
+
+#firebar img {
   width: 100%;
-
-
+  height: 50px;
 }
 
 /**SCHOOL BELOW**/
