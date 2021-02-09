@@ -193,17 +193,15 @@ background-repeat: repeat-y;
   margin: 1px;
   padding-left: 4px;
   padding-right: 4px;
-  color: black;
 }
 
-#jok:active {
+#jok:hover {
   border-style: dashed;
   border-top: 1px dashed #393939;
   border-left: 1px dashed #393939;
   border-right: 1px dashed #393939;
   border-bottom: 1px dashed #393939;
   margin: 0px;
-  color: black;
 }
 
 #randoms {
