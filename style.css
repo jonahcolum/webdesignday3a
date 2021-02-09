@@ -254,6 +254,12 @@ background-repeat: repeat-y;
   display: flex;
   justify-content: center;
   background-image: url(assets/skybg.gif);
+  font-family: 'Windows 95';
+}
+
+#required a {
+  color: black;
+  text-decoration: none;
 }
 
 #container{
