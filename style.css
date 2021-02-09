@@ -200,21 +200,6 @@ background-repeat: repeat-y;
   text-decoration: none;
 }
 
-a:link {
-  color: black;
-  text-decoration: none;
-}
-
-a:hover {
-  color: black;
-  text-decoration: none;
-}
-
-a:active {
-  color: black;
-  text-decoration: none;
-}
-
 #jok:active {
   border-style: dashed;
   border-top: 1px dashed #393939;
