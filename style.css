@@ -195,13 +195,19 @@ background-repeat: repeat-y;
   padding-right: 4px;
 }
 
-#jok:hover {
+#link1 {
+  color: black;
+  text-decoration: none;
+}
+
+#jok:active {
   border-style: dashed;
   border-top: 1px dashed #393939;
   border-left: 1px dashed #393939;
   border-right: 1px dashed #393939;
   border-bottom: 1px dashed #393939;
   margin: 0px;
+  color: black;
 }
 
 #randoms {
