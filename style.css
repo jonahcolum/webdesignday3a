@@ -193,10 +193,6 @@ background-repeat: repeat-y;
   margin: 1px;
   padding-left: 4px;
   padding-right: 4px;
-}
-
-#link1 {
-  color: black;
   text-decoration: none;
 }
 
@@ -210,6 +206,31 @@ background-repeat: repeat-y;
   color: black;
 }
 
+#jok a {
+  color: black;
+  text-decoration: none;
+}
+
+#jok a:link {
+  color: black;
+  text-decoration: none;
+}
+
+#jok a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+#jok a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+#link1 {
+  color: black;
+  text-decoration: none;
+}
+
 #randoms {
   margin-top: 80px;
   margin-left: auto;
@@ -218,8 +239,10 @@ background-repeat: repeat-y;
 }
 
 #firebar {
+  position: relative;
   margin-bottom: -5px;
   width: 100%;
+
 
 }
 
